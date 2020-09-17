@@ -1,3 +1,7 @@
+# React Git Branch Merge
+This practice is apart of the TECHCareers Software Developer program.
+This practice is meant to showcase hwo to use the pull, merge and conflict resolution tool on Github.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
